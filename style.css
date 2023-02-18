@@ -1,0 +1,46 @@
+/* ul li {
+    text-decoration: none;
+    
+} */
+body{
+    background-color: black;
+    color:white;
+}
+table,th, td{
+border:1px solid #ffffff;
+border-collapse: collapse;
+}
+.heading{
+    margin:40px;
+}
+#name{
+    margin:15px
+}
+#issued{
+    margin:15px;
+}
+input {
+    width: 50%;
+    background-color: black;
+    color: white;
+    border: 1px solid #ffffff;
+    height: 42px;
+    font-size: 22px;
+    padding-left: 2px;
+  }
+#i-b{
+    width:60%;
+    height:60px
+    
+  }
+  .book-info{
+    height:20rem;
+    width:100%;
+  }
+  td{
+    height:3rem;
+  }
+  img{
+    width:20px;
+    height:20px
+  }
